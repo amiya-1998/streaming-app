@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "abc",
+      "description": "123",
+      "id": 1
+    },
+    {
+      "title": "Created another Test Stream",
+      "description": "This stream is created by the person signed in.",
+      "id": 2
+    },
+    {
+      "title": "hello hello",
+      "description": "Refactored",
+      "id": 4
+    }
+  ]
+}
